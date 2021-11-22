@@ -14,6 +14,13 @@ This project is our final project.
 ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png)
 
 ### Example
+
+<p float="left">
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="100" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="100" /> 
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="100" />
+</p>
+
 ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png) ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
 ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558574.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558615.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558619.png)
 
