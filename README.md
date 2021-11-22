@@ -11,14 +11,15 @@ This project is our final project.
 ## Demo
 
 ### Main screen
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png)
+<p float="left">
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png" width="500" />
+  </p>
 
 ### Example
 
 <p float="left">
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="300" />
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="300" /> 
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="300" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="500" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="500" /> 
 </p>
 
 ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png) ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
