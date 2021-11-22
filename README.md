@@ -14,12 +14,8 @@ This project is our final project.
 ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png)
 
 ### Example
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png)  |  ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558574.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558615.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558619.png)
+![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png) ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
+![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558574.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558615.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558619.png)
 
 ## Checklist
 - [x] Upload Image to database
