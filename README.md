@@ -12,18 +12,26 @@ This project is our final project.
 
 ### Main screen
 <p float="left">
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png" width="500" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558482.png" width="350" />
   </p>
 
 ### Example
 
 <p float="left">
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="500" />
-  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="500" /> 
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="350" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="350" /> 
 </p>
 
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png) ![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)
-![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558574.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558615.png)![alt text](https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558619.png)
+<p float="left">
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558504.png" width="350" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558510.png" width="350" /> 
+</p>
+
+<p float="left">
+  <img src="ttps://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558574.png" width="350" />
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558615.png" width="350" /> 
+  <img src="https://github.com/NguyenHoangAn0511/PenstagramMMLAB/blob/main/imgs/Screenshot_1637558619.png" width="350" /> 
+</p>
 
 ## Checklist
 - [x] Upload Image to database
