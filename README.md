@@ -37,4 +37,4 @@ This project is our final project.
 - [x] Save Image to Database
 - [x] Download image
 - [x] Optimize processing time
-- [] Comment page
+- [_] Comment page
