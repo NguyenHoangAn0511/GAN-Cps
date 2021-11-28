@@ -7,7 +7,7 @@
 ## Introduction
 This project is our final project. 
 
-Ưe use [Flutter](https://flask.palletsprojects.com/en/1.1.x/) - an mobile framework using Dart to build mobile app.
+We use [Flutter](https://flask.palletsprojects.com/en/1.1.x/) - an mobile framework using Dart to build mobile app.
 ## Demo
 
 ### Main screen
